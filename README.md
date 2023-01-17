@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Computer Science student at McMaster University
 
 <!--
